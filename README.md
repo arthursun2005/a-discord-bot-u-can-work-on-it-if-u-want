@@ -1,6 +1,6 @@
 # This is a discord bot
 
-## Anyone is welcome to work on it if they want <3
+## Anyone is welcome to work on it if they want
 
 
 ## TODO list
